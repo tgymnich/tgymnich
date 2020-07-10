@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img float="left" src="https://valar-hitcounter.valar.dev/count?name=TG908&style=minimal">
+<img float="right" src="https://valar-hitcounter.valar.dev/count?name=TG908&style=minimal">
 
 <!--
 **TG908/TG908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
