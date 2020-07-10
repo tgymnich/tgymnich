@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![hitcounter](https://valar-hitcounter.valar.dev/count?name=TG908)
 <!--
 **TG908/TG908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
